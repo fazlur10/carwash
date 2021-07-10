@@ -16,3 +16,5 @@ json data to make post request
     },
     "merchant_id": 1,
 }
+
+#ADD Firebase configuration in .env file
