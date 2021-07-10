@@ -18,3 +18,12 @@ json data to make post request
 }
 
 #ADD Firebase configuration in .env file
+
+
+#Required:
+express
+firebase 
+dotenv 
+cors
+nodemon (in dev mode)
+body-parser
